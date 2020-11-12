@@ -1,3 +1,3 @@
-# react-styling
+# CSS Architecture
 
-Bla bla bla
+CSS Architecture workshop version 2
