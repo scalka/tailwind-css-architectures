@@ -12,5 +12,9 @@ h3 {
   @apply text-lg;
 }
 
+.cap {
+  @apply circle;
+}
+
 @tailwind components;
 @tailwind utilities;
